@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("https://media.istockphoto.com/id/1169630303/photo/blue-textured-background.webp?b=1&s=170667a&w=0&k=20&c=tI2xFhXqXFqMM0IvxSYY3F7LIwv450h2ch3yD-lZ9HU=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.first{
+    /* border: 2px solid red; */
+    text-align: center;
+    margin-top: 10%;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.resd{
+    padding: 15px 35px;
+    border-radius: 10px;
+    border-bottom-color: black;
+    background-color: skyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#your{
+    padding: 15px 50px;
+    border-radius: 10px;
+    background-color: skyblue;
+        font-weight: bolder;
+
+
+
+}
+button{
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: skyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+
+}
